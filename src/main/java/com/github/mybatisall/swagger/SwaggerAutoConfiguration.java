@@ -1,4 +1,4 @@
-package com.github.flyingcattle.swagger;
+package com.github.mybatisall.swagger;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
-import com.github.flyingcattle.swagger.properties.SwaggerProperties;
+import com.github.mybatisall.swagger.properties.SwaggerProperties;
 
 import springfox.documentation.builders.ApiInfoBuilder;
 import springfox.documentation.builders.PathSelectors;

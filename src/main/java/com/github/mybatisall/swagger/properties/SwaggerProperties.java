@@ -1,4 +1,4 @@
-package com.github.flyingcattle.swagger.properties;
+package com.github.mybatisall.swagger.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
