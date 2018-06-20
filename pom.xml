@@ -101,17 +101,17 @@
 	</dependencies>
 	<distributionManagement>
         <snapshotRepository>
-            <id>osssonatype</id>
+            <id>oss</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
         </snapshotRepository>
         <repository>
-            <id>osssonatype</id>
+            <id>oss</id>
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
     <profiles>
         <profile>
-            <id>oss</id>
+            <id>release</id>
             <build>
                 <resources>
                     <resource>
