@@ -6,7 +6,7 @@
 
 	<groupId>com.github.flying-cattle</groupId>
 	<artifactId>mybatis-all-spring-boot-starter</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0.RELEASE</version>
 	<packaging>jar</packaging>
 	<!-- 项目简介 -->
 	<name>mybatis-all-spring-boot-starter</name>
