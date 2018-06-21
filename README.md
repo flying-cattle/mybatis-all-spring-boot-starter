@@ -2,8 +2,8 @@
 以spring boot和mybatis整合的一站式web服务包。
 
 # 源码地址
-GitHub:https://github.com/flying-cattle/mybatis-all-spring-boot-starter
-码云：https://gitee.com/flying-cattle/mybatis-all-spring-boot-starter
+- GitHub:https://github.com/flying-cattle/mybatis-all-spring-boot-starter
+- 码云：https://gitee.com/flying-cattle/mybatis-all-spring-boot-starter
 
 # 你还在为找包而烦恼吗？
 我们自力于打造一个一站式web服务的包，本项目实现swagger的自动装配，并引入了druid、mybatis、pagehelper的spring-boot-starter包。
