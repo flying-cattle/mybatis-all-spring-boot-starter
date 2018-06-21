@@ -43,11 +43,11 @@
 		<pagehelper-spring-boot-starter.version>1.2.5</pagehelper-spring-boot-starter.version>
 		<druid-spring-boot-starter.version>1.1.10</druid-spring-boot-starter.version>
 		<!-- 打包跳过单元测试 -->
-        <skipTests>true</skipTests>
+                <skipTests>true</skipTests>
 		<maven-source-plugin.version>3.0.1</maven-source-plugin.version>
-        <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
-        <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
-        <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
+                <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
+                <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
+                <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
 	</properties>
 
 	<dependencies>
